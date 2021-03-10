@@ -1,2 +1,2 @@
-Welcome to my (a bit empty) Github page !
-I hope you'll like my projects !!
+# Welcome to my Github page!
+It is a bit empty but I hope you will like my projects anyway!!
